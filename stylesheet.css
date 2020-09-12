@@ -1,0 +1,35 @@
+footer {
+  color: gray;
+  text-align: center;
+}
+
+
+.header-left img {
+  width: 400px;
+}
+.header-right li {
+  list-style: none;
+  float:left;
+  margin-top: 30px;
+  margin-left: 30px;
+  color:gray;
+  border-bottom: solid;
+  padding; 10px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 50px;
+}
+.twitter h4 {
+  color: blue;
+  border-bottom-color: blue;
+}
+.twitter img {
+  width: 150px;
+}
+.twitter {
+    text-align: center;
+    background-image: linear-gradient(white, skyblue);
+}
